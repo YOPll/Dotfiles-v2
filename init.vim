@@ -121,6 +121,7 @@ let g:airline_symbols.branch = ''
 let g:airline_symbols.readonly = ''
 let g:airline_symbols.linenr = ''
 
+"im using coc so no need for this
 
 " imap ss <esc>:w<cr>i
 "imap <c-p> <esc>:
