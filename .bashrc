@@ -120,4 +120,4 @@ fi
 export MAIL="mrx.ga10@gmail.com"
 export mail='mrx.ga10@gmail.com'
 
-alias norm="~/.norminette/norminette.rb"
+alias norm="norminette"
